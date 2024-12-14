@@ -1,2 +1,2 @@
-# HiveFold
-HiveFold - Universal data bank format 
+# DeHive
+DeHive - Universal data bank format 
