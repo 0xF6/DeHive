@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeHive.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "view ..\\out\\xui.hb"
+    }
+  }
+}

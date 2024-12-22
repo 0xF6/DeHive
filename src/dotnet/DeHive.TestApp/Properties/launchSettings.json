@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeHive.TestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "view ..\\out\\xui.hb"
+    }
+  }
+}
